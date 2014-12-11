@@ -1,0 +1,53 @@
+body{
+	font:'Lucida Grande', sans-serif;
+	color:#666666;
+}
+
+.container{
+    margin-top:25px;
+}
+.content-main{
+    font-size: 16px; 
+    line-height: 2em;
+}
+
+.content{
+    margin-top:30px;
+}
+
+.heading-main{
+	font-size:48px;
+}
+
+.heading-features{
+    padding-top:10px;
+    padding-left:9px;
+}
+
+.list{
+   	border:2px solid;
+	border-color:#CCCCCC;
+	margin-top:30px;
+	padding-left:20px;
+    padding-bottom:30px;
+}
+
+h2{
+	font-size:24px;
+	font-weight:bold;
+	color:#F07C17;
+}
+
+.main-pic{
+	margin-top:20px;
+}
+
+ul{
+    margin-top:29px;
+    margin-left:4px;
+}
+
+li{
+   font-size:16px;
+   padding:5px;
+}

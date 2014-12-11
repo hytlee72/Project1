@@ -1,0 +1,45 @@
+body{
+  font: 16px/1.5em "Lucida Grande", sans-serif;
+  color: #666;
+}
+
+h2{
+  font-size: 24px;
+  font-weight: bold;
+  color: #F07C17;
+}
+
+ul{
+  margin-top: 30px;
+  padding-bottom: 10px;
+}
+
+li{
+  padding: 4px 0;
+}
+
+.container{
+  margin-top: 25px;
+}
+.content-main{
+  line-height: 2em;
+}
+
+.content{
+  margin-top: 30px;
+}
+
+.heading-main{
+  font-size: 48px;
+}
+
+.list{
+  border: 2px solid #CCC;
+  margin-top: 30px;
+  padding: 9px 29px 20px;  
+}
+
+.main-pic{
+  margin-top: 20px;
+}
+
